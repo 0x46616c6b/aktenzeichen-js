@@ -1,0 +1,16 @@
+{
+  "name": "Aktenzeichen",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": {
+    "name": "louis",
+    "email": "louis@systemli.org"
+  },
+  "license": "SEE LICENSE IN LICENSE",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  }
+}
